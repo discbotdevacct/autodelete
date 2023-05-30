@@ -1,4 +1,4 @@
-module github.com/riking/AutoDelete
+module github.com/discbotdevacct/autodelete/
 
 go 1.13
 
